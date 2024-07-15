@@ -1,0 +1,1 @@
+This is a userChrome.js script to save the width of the sidebar. Each panel now has its own width, which changes when switching. Requires [fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig).
